@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Open WebUI",
+    "url": "https://github.com/open-webui/open-webui",
+    "description": "Self-hosted ChatGPT alternative with full-featured UI",
+    "category": "AI Tools & Services",
+    "platforms": ["Web", "Self-hosted"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 75000,
+    "language": "Python"
+  },
+  {
+    "name": "Dify",
+    "url": "https://github.com/langgenius/dify",
+    "description": "Build production-ready AI apps with visual workflow builder",
+    "category": "AI Tools & Services",
+    "platforms": ["Web", "Self-hosted"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 58000,
+    "language": "Python"
+  },
+  {
+    "name": "Ollama",
+    "url": "https://github.com/ollama/ollama",
+    "description": "Run large language models locally with simple CLI",
+    "category": "AI Tools & Services",
+    "platforms": ["macOS", "Linux", "Windows"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 95000,
+    "language": "Go"
+  },
+  {
+    "name": "CrewAI",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "description": "Multi-agent orchestration framework for AI applications",
+    "category": "AI Tools & Services",
+    "platforms": ["Python"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 25000,
+    "language": "Python"
+  },
+  {
+    "name": "LangChain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "description": "Framework for developing LLM-powered applications",
+    "category": "Development",
+    "platforms": ["Python", "JavaScript"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 92000,
+    "language": "Python"
+  },
+  {
+    "name": "n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Workflow automation tool with visual node-based editor",
+    "category": "Office & Productivity",
+    "platforms": ["Web", "Self-hosted"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 48000,
+    "language": "TypeScript"
+  },
+  {
+    "name": "RagFlow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "description": "Powerful RAG system for knowledge extraction",
+    "category": "AI Tools & Services",
+    "platforms": ["Web", "Self-hosted"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 22000,
+    "language": "Python"
+  },
+  {
+    "name": "Langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "description": "Visual AI builder with drag-and-drop interface",
+    "category": "AI Tools & Services",
+    "platforms": ["Web", "Self-hosted"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 35000,
+    "language": "Python"
+  },
+  {
+    "name": "DeepSeek-V3",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "description": "Open-weight large language model with strong reasoning",
+    "category": "AI Tools & Services",
+    "platforms": ["Web", "API"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 42000,
+    "language": "Python"
+  },
+  {
+    "name": "Claude Code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Smart coding agent for terminal-based development",
+    "category": "Development",
+    "platforms": ["CLI"],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-22",
+    "stars": 18000,
+    "language": "TypeScript"
+  }
+]
