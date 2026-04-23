@@ -1,0 +1,142 @@
+[
+  {
+    "name": "corenet",
+    "url": "https://github.com/apple/corenet",
+    "description": "CoreNet: A library for training deep neural networks",
+    "category": "AI Tools & Services",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 7008,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "name": "ProgrammingVTuberLogos",
+    "url": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+    "description": "High-quality PNGs for logos I made for fun ",
+    "category": "Development",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 6178,
+    "language": "CSS"
+  },
+  {
+    "name": "Kimi-k1.5",
+    "url": "https://github.com/MoonshotAI/Kimi-k1.5",
+    "description": null,
+    "category": "Development",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 3473,
+    "language": null
+  },
+  {
+    "name": "Skywork-R1V",
+    "url": "https://github.com/SkyworkAI/Skywork-R1V",
+    "description": "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI, specializing in vision-language reasoning.",
+    "category": "AI Tools & Services",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 3162,
+    "language": "Python"
+  },
+  {
+    "name": "nof0",
+    "url": "https://github.com/wquguru/nof0",
+    "description": "NOF0 - \u5f00\u6e90\u7684 AI \u4ea4\u6613\u7ade\u6280\u573a",
+    "category": "AI Tools & Services",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2772,
+    "language": "Go"
+  },
+  {
+    "name": "RAGEN",
+    "url": "https://github.com/mll-lab-nu/RAGEN",
+    "description": "RAGEN leverages reinforcement learning to train LLM reasoning agents in interactive, stochastic environments.",
+    "category": "AI Tools & Services",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2629,
+    "language": "Python"
+  },
+  {
+    "name": "quary",
+    "url": "https://github.com/quarylabs/quary",
+    "description": "Open-source BI for engineers",
+    "category": "Development",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2368,
+    "language": "Rust"
+  },
+  {
+    "name": "zasper",
+    "url": "https://github.com/zasper-io/zasper",
+    "description": "High Performace IDE for Jupyter Notebooks",
+    "category": "Office & Productivity",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2315,
+    "language": "TypeScript"
+  },
+  {
+    "name": "company-wise-projects",
+    "url": "https://github.com/nishant-Tiwari24/company-wise-projects",
+    "description": "Top ideas for a particular compmay to build some crazy projects.",
+    "category": "Development",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2152,
+    "language": null
+  },
+  {
+    "name": "java-chains",
+    "url": "https://github.com/vulhub/java-chains",
+    "description": "Java Vulnerability Exploitation Platform",
+    "category": "File Management",
+    "platforms": [
+      "Web",
+      "Cross-platform"
+    ],
+    "source": "GitHub Trending",
+    "discovered_date": "2026-04-23",
+    "stars": 2034,
+    "language": "Dockerfile"
+  }
+]
